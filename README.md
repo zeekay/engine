@@ -3,6 +3,8 @@
 
 <h1 align="center">Hanzo Engine</h1>
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/engine&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/engine&ref=main&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/engine&ref=main&action=deploy)
+
 <h3 align="center">
 The native, multimodal inference engine — text, vision, audio, speech, image, and embeddings in one fast Rust binary.
 </h3>
